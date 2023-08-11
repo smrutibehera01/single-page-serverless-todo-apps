@@ -79,3 +79,4 @@ Make a GET request to localhost:3000
 Make a GET request to localhost:3000/users
 have an employe array as a response
 
+![image](https://github.com/smrutibehera01/single-page-serverless-todo-apps/assets/112945708/dd82138b-a2e3-429e-be64-3515bef15227)

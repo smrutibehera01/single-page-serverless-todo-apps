@@ -7,24 +7,24 @@ Author : {Smruti Ranjan Behera}
 
 Overview :
 create a CRUD rest API, using
-================================
+
 Node.js -   JavaScript runtime built on Chrome's V8 JavaScript engine.
--------
+
 Express - simply Express, is a back end web application framework for building RESTful APIs with Node.js,
--------
+
 Sequelize - Sequelize is a Node.js-based Object Relational Mapper that makes it easy to work with PostgreSQL databases, and more. An Object Relational Mapper performs
 functions like handling database records by representing the data as objects.
--------
+
 postgresql - PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance
--------
+
 Docker - Using Docker, you can quickly deploy and scale applications into any environment and know your code will run
--------
+
 Docker Compose - Docker Compose is a tool that was developed to help define and share multi-container applications. With Compose, we can create a YAML file to define the services and with a single command
--------
+
 
 Definition
 created 5 endpoints for basic CRUD operations:
------------------------------------------------
+
 {Create}
 {Read all}
 {Read one}

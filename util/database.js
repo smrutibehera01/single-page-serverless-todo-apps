@@ -3,7 +3,7 @@
 /* DESCRIPTION OF {Sequelize} is a Node. js-based Object Relational Mapper that makes it easy to work with MySQL, 
 PostgreSQL databases, and more. An Object Relational Mapper performs functions like handling database records by representing the data as objects.*/
 
-/* {host: process.env.PG_HOST, } Imp -> this line is used for connect from DB to Application*/
+/* {host: process.env.PG_HOST, } Imp -> this line is used for connect from DB to Application for the same*/
 
 const Sequelize = require('sequelize');
 const sequelize = new Sequelize(
